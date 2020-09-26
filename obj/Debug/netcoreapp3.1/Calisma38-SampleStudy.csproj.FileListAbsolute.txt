@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/bin/Debug/netcoreapp3.1/Calisma38-SampleStudy.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/bin/Debug/netcoreapp3.1/Calisma38-SampleStudy.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/bin/Debug/netcoreapp3.1/Calisma38-SampleStudy.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/bin/Debug/netcoreapp3.1/Calisma38-SampleStudy.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/bin/Debug/netcoreapp3.1/Calisma38-SampleStudy.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/obj/Debug/netcoreapp3.1/Calisma38-SampleStudy.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/obj/Debug/netcoreapp3.1/Calisma38-SampleStudy.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/obj/Debug/netcoreapp3.1/Calisma38-SampleStudy.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/obj/Debug/netcoreapp3.1/Calisma38-SampleStudy.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/obj/Debug/netcoreapp3.1/Calisma38-SampleStudy.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/obj/Debug/netcoreapp3.1/Calisma38-SampleStudy.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma38-SampleStudy/obj/Debug/netcoreapp3.1/Calisma38-SampleStudy.genruntimeconfig.cache
